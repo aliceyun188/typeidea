@@ -1,0 +1,8 @@
+# gcc coverage testing tool files-zhu
+
+*.gcno
+*.gcda
+*.gcov
+*.pyc
+*.swp
+*.sqlite3
